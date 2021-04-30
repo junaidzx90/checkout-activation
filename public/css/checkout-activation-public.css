@@ -1,0 +1,10 @@
+.downloadbtn {
+    background-color: var(--subsactivations_active_btn_color);
+    min-height: 48px;
+    max-height: 48px;
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+    line-height: 3;
+    color: #ffffff !important;
+}
